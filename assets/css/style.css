@@ -85,7 +85,7 @@
   position: relative;
   padding: 11px 35px;
   background: #fff;
-  color: #8cc800;
+  color:  #89c4f4;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -140,7 +140,7 @@ body {
 } */
 
 a {
-  color: #8cc800;
+  color:  #89c4f4;
 }
 
 /* main blockqoute */
@@ -156,7 +156,7 @@ a {
 
 blockquote {
   border-left: 5px solid #795548;
-  color: #8cc800;
+  color:  #89c4f4;
   font-size: 125%;
   font-weight: 400;
   margin: 20px 0;
@@ -237,7 +237,7 @@ ul.side-nav li {
 
 ul.side-nav.fixed a {
   box-sizing: content-box;
-  color: rgb(16, 202, 56);
+  color: (228, 241, 254);
   display: block;
   line-height: 100%;
   padding: 10px 0 12px;
@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  background: #3a539b repeat;
   position: relative;
 }
 
